@@ -7,4 +7,6 @@
   
 ### Foundation Mathematic
 <img src="assets/Mathematic Field-Foundation Mathematic.png">
-
+  
+### Pure Mathematic
+<img src="assets/Mathematic Field-Pure Mathematic.png">
