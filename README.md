@@ -11,6 +11,9 @@
 ### Pure Mathematic
 <img src="assets/Mathematic Field-Pure Mathematic.png">
   
+#### Sub Pure Mathematic
+<img src="assets/Mathematic Field-Sub Pure Mathematic.png">
+  
 ### Applied Mathematic
 <img src="assets/Mathematic Field-Applied Mathematic.png">
 
