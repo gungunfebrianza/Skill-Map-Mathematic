@@ -10,3 +10,7 @@
   
 ### Pure Mathematic
 <img src="assets/Mathematic Field-Pure Mathematic.png">
+  
+### Applied Mathematic
+<img src="assets/Mathematic Field-Applied Mathematic.png">
+
